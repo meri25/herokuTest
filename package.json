@@ -1,6 +1,6 @@
 {
   "name": "meteor-react-example",
-  "private": false,
+  "private": true,
   "scripts": {
     "start": "meteor run"
   },
